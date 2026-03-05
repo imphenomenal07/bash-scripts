@@ -88,7 +88,7 @@ These build logic + scripting patterns.
 
 14. Create a function to check memory usage.
 
-Arrays
+# Arrays
 
 15. Create an array of server names and print them.
 
