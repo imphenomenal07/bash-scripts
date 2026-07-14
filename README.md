@@ -158,19 +158,19 @@ These are real scripts used in production.
 These are very common in DevOps interviews.
 
 # Scenario 1
-Write a script that:
+**Write a script that:**
 - Checks disk usage
 - If usage > 85%
 - Send alert message
 
 # Scenario 2
-Write a script to:
+**Write a script to:**
 - Check if nginx service is running
 - If not running → restart it
 - Log the event.
 
 # Scenario 3
-Write a script that:
+**Write a script that:**
 - Monitors application logs
 - If ERROR appears more than 5 times
 - Send alert.
