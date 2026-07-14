@@ -176,13 +176,13 @@ These are very common in DevOps interviews.
 - Send alert.
 
 # Scenario 4
-Write a script to:
+**Write a script to:**
 - Monitor CPU usage
 - If CPU > 90%
 - Print Top 5 processes consuming CPU
 
 # Scenario 5
-Write a script to:
+**Write a script to:**
 - Take backup of /var/www
 - Compress with timestamp
 - Store in /backup
