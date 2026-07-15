@@ -219,14 +219,14 @@ These are very common in DevOps interviews.
 # Project 1
 Server Health Monitoring Script
 
-Check:
+**Check:**
 - CPU
 - Memory
 - Disk
 - Running services
 
 # Project 2
-Log Monitoring System
+**Log Monitoring System**
 
 - Detect errors
 - Send alerts
@@ -235,7 +235,7 @@ Log Monitoring System
 # Project 3
 Auto Deployment Script
 
-Steps:
+**Steps:**
 - Pull Git repo
 - Build application
 - Restart service
