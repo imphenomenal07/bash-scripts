@@ -188,7 +188,7 @@ These are very common in DevOps interviews.
 - Store in /backup
 
 # 6️⃣ Advanced Production Level Scripts
-These are used by SRE teams.
+**These are used by SRE teams**
 
 1. Script to check website availability (HTTP status).
 
@@ -201,7 +201,7 @@ These are used by SRE teams.
 5. Script to monitor failed SSH login attempts.
 
 # 7️⃣ Expert Level DevOps Bash
-Script to deploy application to multiple servers.
+**Script to deploy application to multiple servers**
 
 1. Script to create users from CSV file.
 
@@ -214,7 +214,7 @@ Script to deploy application to multiple servers.
 5. Script to auto-scale infrastructure using scripts.
 
 # ⭐ Pro DevOps Practice (Highly Recommended)
-Build these mini projects.
+**Build these mini projects**
 
 # Project 1
 Server Health Monitoring Script
